@@ -1,6 +1,6 @@
 # Dense Depth Map Generation using LiDAR and Stereo Data
 
- 📝**Detailed Project Report :** [Click Here](Report/Depth Maps using Stereo & Lidar- Rajat_Mehta.pdf)  
+ 📝**Detailed Project Report :** [Click Here](Report/Depth%Maps%using%Stereo%&%Lidar-%Rajat_Mehta.pdf)  
 
 ## Contents
 
